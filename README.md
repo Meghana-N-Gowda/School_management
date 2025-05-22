@@ -1,5 +1,5 @@
 # Schoolmanagement
-developer : https://github.com/Meghana-N-Gowda/School_management
+developer : Meghana
 ---
 ## screenshots
 ### Homepage
