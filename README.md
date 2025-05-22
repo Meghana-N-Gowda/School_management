@@ -1,5 +1,4 @@
 # Schoolmanagement
-developer : Meghana
 ---
 ## screenshots
 ### Homepage
@@ -35,10 +34,6 @@ They can update any student/teacher details.
 Admin can announce notice also.
 
 
-## Drawbacks
-- On update page of teacher/student you must have to update password.
-- Anyone can become Admin
-
 ## HOW TO RUN THIS PROJECT
 - Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :
@@ -69,11 +64,3 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 https://myaccount.google.com/lesssecureapps
 ```
-
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
